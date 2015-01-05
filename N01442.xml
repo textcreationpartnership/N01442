@@ -110,8 +110,8 @@
    <text xml:lang="eng">
       <body>
          <div type="poem">
-            <pb facs="tcp:001709_0000_0FB7509813C25D68"/>
-            <pb facs="tcp:001709_0001_0FB75099E04D8800"/>
+            <pb facs="unknown:001709_0000_0FB7509813C25D68"/>
+            <pb facs="unknown:001709_0001_0FB75099E04D8800"/>
             <p>THE ORIGIN OF THE Whale bone-petticoat. A SATYR.</p>
             <p>
                <hi>Boston, August</hi> 2d. 1714.</p>
@@ -185,7 +185,7 @@
                      <desc>•</desc>
                   </gap>-bone-petticoat's Original.</l>
                <l>
-                  <pb n="2" facs="tcp:001709_0002_0FB7509FA2BC8848"/>Then I am sure (if Innocence preva<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="2" facs="unknown:001709_0002_0FB7509FA2BC8848"/>Then I am sure (if Innocence preva<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>
                </l>
@@ -290,7 +290,7 @@
                      <desc>〈◊〉</desc>
                   </gap>-inch-wide-Muffs.</l>
                <l>
-                  <pb n="3" facs="tcp:001709_0003_0FB750A26D711650"/>Derive their Being not from Reason's Laws,</l>
+                  <pb n="3" facs="unknown:001709_0003_0FB750A26D711650"/>Derive their Being not from Reason's Laws,</l>
                <l>But owe their Birth to some fantastic Cause.</l>
             </lg>
             <lg>
@@ -418,7 +418,7 @@
                   </gap>
                </l>
                <l>
-                  <pb n="4" facs="tcp:001709_0004_0FB750A4E14F5418"/>
+                  <pb n="4" facs="unknown:001709_0004_0FB750A4E14F5418"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>oor senseless W<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -546,7 +546,7 @@
                   </gap>
                </l>
                <l>
-                  <pb n="5" facs="tcp:001709_0005_0FB750A657A0E788"/>A <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <pb n="5" facs="unknown:001709_0005_0FB750A657A0E788"/>A <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> Time! <hi>Job's</hi> Comforter be <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -740,7 +740,7 @@
                      <desc>〈…〉</desc>
                   </gap> more in vain.</l>
                <l>
-                  <pb n="6" facs="tcp:001709_0006_0FB750A94B4D5F20"/>At length,</l>
+                  <pb n="6" facs="unknown:001709_0006_0FB750A94B4D5F20"/>At length,</l>
                <l>
                   <hi>Ten Thousand Livres,</hi> ah! that mystic Thought</l>
                <l>The mighty Nothing to Perfection brought,</l>
@@ -788,7 +788,7 @@
                <l>To hide a filthy Strumpet's foul Disease.</l>
             </lg>
             <lg>
-               <pb n="7" facs="tcp:001709_0007_0FB750AA0D827730"/>
+               <pb n="7" facs="unknown:001709_0007_0FB750AA0D827730"/>
                <l>And now <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> Ladies,</l>
@@ -898,7 +898,7 @@
                <l>Will take up Arms against the <hi>Amazon.</hi>
                </l>
                <l>
-                  <pb n="8" facs="tcp:001709_0008_0FB750B3C2402FE8"/>
+                  <pb n="8" facs="unknown:001709_0008_0FB750B3C2402FE8"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> belong to Man, and while we live</l>
